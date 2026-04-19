@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f421d9900a1d8846980ff8f28b89f8f, type: 3}
+  m_Name: cubeShapeData
+  m_EditorClassIdentifier: 
+  id: 0
+  prefab: {fileID: 6147271532336409043, guid: 87282555ce3d75d43801b902eb99677f, type: 3}
+  icon: {fileID: 21300000, guid: de5d012e79e822e4a8e07c1a09df18a1, type: 3}

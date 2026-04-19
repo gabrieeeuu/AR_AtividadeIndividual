@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190d9d0ee4183c94eae5bce42333f32a, type: 3}
+  m_Name: shapeDatabase
+  m_EditorClassIdentifier: 
+  shapes:
+  - {fileID: 11400000, guid: 631c491a7eba3214b851d81370b52377, type: 2}
